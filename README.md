@@ -9,3 +9,5 @@ $ git clone https://github.com/risec666/Email-Tools
 $ cd Email-Tools
 $ python main.py
 ```
+
+https://github.com/faizgans14/Mail-Tools
